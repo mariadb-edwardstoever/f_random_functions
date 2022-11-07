@@ -1,5 +1,5 @@
 # f_random_functions
-Database functions that can be used to create sample data.
+Database functions that can be used to create fantasy data for test databases and data sets.
 
 ```
 F_RANDOM_ADJECTIVE
