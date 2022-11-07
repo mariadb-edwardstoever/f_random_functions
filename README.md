@@ -1,7 +1,8 @@
 # f_random_functions
 Database functions that can be used to create sample data.
 
-```F_RANDOM_ADJECTIVE
+```
+F_RANDOM_ADJECTIVE
 -- Returns a rich collection of random English adjectives.
 
 F_RANDOM_ADVERB
@@ -125,4 +126,5 @@ F_UTF_RANDOM_STREET_ADDRESS
 -- Returns a rich collection of random street addresses using multi-byte characters for testing UTF scenarios..
 
 F_UTF_RANDOM_WORD
--- Returns a rich collection of random words with mutli-byte characters for testing UTF scenarios.```
+-- Returns a rich collection of random words with mutli-byte characters for testing UTF scenarios.
+```
