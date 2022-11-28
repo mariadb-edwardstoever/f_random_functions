@@ -111,7 +111,8 @@ F_RANDOM_STRING
 -- Second input: 0 for lowercase, 1 for uppercase.
 
 F_RANDOM_USER_NAME
--- Returns a rich collection of user names. When creating 1 million user names, expect 2 duplicates. When creating 2 million user names, expect 8 duplicates. 
+-- Returns a rich collection of user names. When creating 1 million user names, expect 2 duplicates. 
+-- When creating 2 million user names, expect 8 duplicates. 
 
 F_RANDOM_VERB
 -- Returns a rich collection of random English verbs.
