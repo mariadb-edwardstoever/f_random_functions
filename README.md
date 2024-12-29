@@ -17,6 +17,9 @@ F_RANDOM_BOOLEAN
 F_RANDOM_BUSINESS_NAME
 -- Returns a rich collection of random business names.
 
+F_RANDOM_BYTES
+-- Returns a random byte vector.
+
 F_RANDOM_CITY
 -- Returns a rich collection of random city names.
 
