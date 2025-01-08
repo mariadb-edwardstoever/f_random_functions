@@ -19,6 +19,7 @@ F_RANDOM_BUSINESS_NAME
 
 F_RANDOM_BYTES
 -- Returns a random byte vector.
+-- Input integer length in bytes up to 1024.
 
 F_RANDOM_CITY
 -- Returns a rich collection of random city names.
